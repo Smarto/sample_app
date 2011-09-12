@@ -1,0 +1,9 @@
+<footer>
+<strong>Copyright Ceniels Technologies 2011</strong>
+  <nav class="round">
+    <ul>
+      <li><%= link_to "About", '#' %></li>
+      <li><%= link_to "Contact", '#' %></li>
+    </ul>
+  </nav>
+</footer>
